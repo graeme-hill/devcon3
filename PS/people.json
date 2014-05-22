@@ -1,0 +1,26 @@
+[
+	{
+		"Name": "graeme",
+		"FavoriteColor": "green"
+	},
+	{
+		"Name": "alan",
+		"FavoriteColor": "red"
+	},
+	{
+		"Name": "jason",
+		"FavoriteColor": "blue"
+	},
+	{
+		"Name": "matt",
+		"FavoriteColor": "orange"
+	},
+	{
+		"Name": "leeam",
+		"FavoriteColor": "#0fc3ee"
+	},
+	{
+		"Name": "adam",
+		"FavoriteColor": "purple"
+	}
+]
