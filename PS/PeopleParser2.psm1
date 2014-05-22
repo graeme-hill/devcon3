@@ -71,5 +71,6 @@ function Repair-People() {
 
 }
 
+# Only the exported modules are visible
 Export-ModuleMember Repair-People
 Export-ModuleMember Format-Person

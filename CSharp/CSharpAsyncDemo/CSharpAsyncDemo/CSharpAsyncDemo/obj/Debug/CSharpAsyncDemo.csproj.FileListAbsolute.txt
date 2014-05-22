@@ -1,0 +1,6 @@
+C:\Users\ghill\dev\DevCon3\CSharp\CSharpAsyncDemo\CSharpAsyncDemo\CSharpAsyncDemo\bin\Debug\CSharpAsyncDemo.exe.config
+C:\Users\ghill\dev\DevCon3\CSharp\CSharpAsyncDemo\CSharpAsyncDemo\CSharpAsyncDemo\bin\Debug\CSharpAsyncDemo.exe
+C:\Users\ghill\dev\DevCon3\CSharp\CSharpAsyncDemo\CSharpAsyncDemo\CSharpAsyncDemo\bin\Debug\CSharpAsyncDemo.pdb
+C:\Users\ghill\dev\DevCon3\CSharp\CSharpAsyncDemo\CSharpAsyncDemo\CSharpAsyncDemo\obj\Debug\CSharpAsyncDemo.csprojResolveAssemblyReference.cache
+C:\Users\ghill\dev\DevCon3\CSharp\CSharpAsyncDemo\CSharpAsyncDemo\CSharpAsyncDemo\obj\Debug\CSharpAsyncDemo.exe
+C:\Users\ghill\dev\DevCon3\CSharp\CSharpAsyncDemo\CSharpAsyncDemo\CSharpAsyncDemo\obj\Debug\CSharpAsyncDemo.pdb

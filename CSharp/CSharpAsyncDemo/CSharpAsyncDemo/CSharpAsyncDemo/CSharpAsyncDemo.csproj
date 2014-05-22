@@ -7,8 +7,8 @@
     <ProjectGuid>{22C8F4C1-EA0D-4E85-8A8C-791C2188B608}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ConsoleApplication1</RootNamespace>
-    <AssemblyName>ConsoleApplication1</AssemblyName>
+    <RootNamespace>CSharpAsyncDemo</RootNamespace>
+    <AssemblyName>CSharpAsyncDemo</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

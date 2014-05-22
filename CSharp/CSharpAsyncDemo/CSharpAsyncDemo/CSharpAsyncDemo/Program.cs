@@ -119,7 +119,7 @@ namespace ConsoleApplication1
             using (new MyTimer("TEST"))
             {
                 var threads = new List<Thread>();
-                for (var i = 0; i < 50000; i++)
+                for (var i = 0; i < 100; i++)
                 {
                     var thread = new Thread(new ThreadStart(() => GetVessels()));
                     threads.Add(thread);
@@ -159,7 +159,7 @@ namespace ConsoleApplication1
         {
             using (new MyTimer("API call"))
             {
-                await Sleep(3000);
+                await Sleep(1000);
                 return "[ { \"name\": \"edoc destroyer\" } ]";
             }
         }
@@ -168,7 +168,7 @@ namespace ConsoleApplication1
         {
             using (new MyTimer("API call"))
             {
-                Thread.Sleep(3000);
+                Thread.Sleep(1000);
                 return "[ { \"name\": \"edoc destroyer\" } ]";
             }
         }
